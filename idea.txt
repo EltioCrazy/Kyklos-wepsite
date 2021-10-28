@@ -1,0 +1,46 @@
+Nombre del sitio Wep: Kyklos    Crear logo
+
+ Etiqueta: Kylos
+
+   Descripcion: Kyklos donde puedes comprar bicicletas nuevas y de segunda mano. Encuentras bicicletas a tu tamaño. Para la familia o el deporte. Diferentes estilos de bicicletas.
+    Colores
+    Color de fondo: negro
+    Color del fondo de portada: tono amarillo
+    Coloer de logo: Gris
+     Barra prinsipal
+      color: amarillo
+      Color de letras: blanco
+       
+	contenido: tutulo como Inicio, menu, buscador, iniciar cecion, carrito,
+          efectos: 
+		que se mueva la barra principal cuando bajo la pantalla
+		que resalte el logo cuando pasa el maus
+  Menu:
+  bicis
+  partes
+  tutoriales
+  favoritos
+  iniciar cecion
+  carrito
+
+   pagina principal:
+	productos que puedes encontrar
+	 imagenes de bicicletas
+	sobre nosotros
+	 descripcipn
+	   Una empresa donde ofresemos calidad y accecibilidad, Vendemos bicicletas de todo tipo
+	productos mas recientes
+
+		pie de la pagina
+			 contactos
+			 Correo
+			 telefono
+			 redes sociales
+			shop
+			 bicis
+			 cuadros
+			 piezas
+
+			 
+
+			
